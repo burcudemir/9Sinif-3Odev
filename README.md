@@ -36,6 +36,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) Kullandığınız Google Sheet için [buraya](link ver) link verin (Google Sheet herkese açık erişimli olsun.) 
 
 | Frame | Zaman(s) | Konum(m) |
+| ----- | -------- | -------- |
 |7 | 0 | 0 |
 |12 | 0,083 | 0,15 |
 |14 | 0,116 | 0,2|
