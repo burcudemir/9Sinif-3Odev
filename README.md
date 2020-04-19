@@ -54,7 +54,8 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 |53 | 0,76 | 0,675 |
 
 
-a) Denkleminizi **5,98E-03 + 1,81x + -1,23x^2**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **(*x= -1.23*t^2 + 1,81*t + 5,98E-03*)**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif?
+a ivmeyi b hızı c konumu ifade eder. a ivmeyi temsil etmekte olduğundan ve bu bir yavaşlayan hareket olduğundan negatiftir.
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
 
