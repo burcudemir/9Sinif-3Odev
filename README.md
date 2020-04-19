@@ -81,6 +81,7 @@ Fsür = m * a       1 * (-2,21) = -2,21
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
+30 ms ve 1 cm
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:
@@ -88,3 +89,4 @@ Yardım:
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
 3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+Ne kadar kuvvet ile harekete geçtiğini bilmediğimiz için bulamazdık.
